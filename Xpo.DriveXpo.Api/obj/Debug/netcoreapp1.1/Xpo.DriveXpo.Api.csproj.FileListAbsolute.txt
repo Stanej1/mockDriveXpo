@@ -1,0 +1,9 @@
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\bin\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.deps.json
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\bin\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.runtimeconfig.json
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\bin\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.runtimeconfig.dev.json
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\bin\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.dll
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\bin\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.pdb
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\obj\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.csprojResolveAssemblyReference.cache
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\obj\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.AssemblyInfo.cs
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\obj\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.dll
+D:\repos\Xpo.DriveXpo\Xpo.DriveXpo.Api\obj\Debug\netcoreapp1.1\Xpo.DriveXpo.Api.pdb
